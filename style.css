@@ -1,0 +1,23 @@
+.list {
+  list-style-type:none;
+  margin: 0;
+  padding: 0;
+}
+a:link {
+    text-decoration: none;
+}
+a {
+color: white;
+opacity: 0.75;
+}
+footer {
+display: flex;
+background-color: black;
+color: white;
+}
+.mg {
+margin-left: 20px;
+}
+.mg1 {
+margin-left: 200px;
+}
