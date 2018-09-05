@@ -1,0 +1,27 @@
+{
+  "name": "wfhfiles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "buttonclickJS.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mushamsri/WFH.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mushamsri/WFH/issues"
+  },
+  "homepage": "https://github.com/mushamsri/WFH#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^4.0.1"
+  },
+  "dependencies": {
+    "ansi-colors": "^3.0.5"
+  }
+}
